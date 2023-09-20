@@ -1,0 +1,8 @@
+.featured-section {
+    padding-left: 130px;
+    padding-right: 130px;
+    padding-bottom: 130px;
+    
+    background: var(--primary-color);
+    outline: double black 5px;
+}
